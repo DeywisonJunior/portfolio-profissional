@@ -17,4 +17,4 @@ Organização de projetos
 
 Este portfólio será atualizado conforme eu aprender e desenvolver novos projetos.
 
-Este projeto faz parte da minha atividade de Design Profissional.
+Este projeto faz parte da minha atividade de Design Profissional
